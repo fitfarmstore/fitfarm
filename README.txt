@@ -9,4 +9,4 @@
 Before publishing, replace:
 - `91XXXXXXXXXX` with your WhatsApp number.
 - The product/order links can be added later.
-- Prices are currently ₹100 for all four products.
+- Prices are currently ₹120 for all four products.
